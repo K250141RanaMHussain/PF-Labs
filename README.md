@@ -1,2 +1,2 @@
 ## Objective
-~~My Assignments~~
+My Assignments
