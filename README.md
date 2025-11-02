@@ -1,2 +1,1 @@
-## Objective
-My Assignments
+My Lab Tasks in this repository
